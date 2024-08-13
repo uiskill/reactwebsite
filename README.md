@@ -2,7 +2,7 @@
 1) React Js,
 2) Bootstrap
 3) Emailjs
-4) React Hooks, React router Dome
+4) React Hooks, React router Dom
 5) React Swiper
 6) SEO 
 
