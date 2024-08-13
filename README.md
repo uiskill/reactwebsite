@@ -1,3 +1,11 @@
+Technology Used
+1) React Js,
+2) Bootstrap
+3) Emailjs
+4) React Hooks, React router Dome
+5) React Swiper
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
